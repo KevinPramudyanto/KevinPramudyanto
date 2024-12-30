@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Kevin 👋
 
-<!--
-**KevinPramudyanto/KevinPramudyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on full stack web development
+- 📫 How to reach me: kevinpramudyanto92@gmail.com
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="images/linkedin.png" alt="Linkedin" width="30">](https://www.linkedin.com/in/kevin-pramudyanto/)
+&nbsp;
+[<img src="images/gmail.png" alt="Gmail" width="30">](mailto:kevinpramudyanto92@gmail.com)
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,py,react,tailwind,nodejs,expressjs,flask,postgres,mongo,git,postman,vscode)](https://skillicons.dev)
